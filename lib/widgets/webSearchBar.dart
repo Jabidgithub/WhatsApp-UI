@@ -32,7 +32,7 @@ class WebSearchBar extends StatelessWidget {
                 borderRadius: BorderRadius.circular(20),
                 borderSide:
                     const BorderSide(width: 0, style: BorderStyle.none)),
-            contentPadding: EdgeInsets.all(10)),
+            contentPadding: const EdgeInsets.all(10)),
       ),
     );
   }
